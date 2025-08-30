@@ -1,0 +1,21 @@
+Gerador de Senhas Aleatórias
+
+  Este é um projeto simples e funcional que gera senhas seguras e aleatórias diretamente no navegador. Ideal para quem precisa de uma senha forte com apenas um clique.
+
+Funcionalidades
+
+  Geração de senhas com letras, números e símbolos
+
+  Escolha do tamanho da senha
+
+Tecnologias Utilizadas
+
+  HTML5 para estrutura da página
+
+  CSS3 para estilização
+
+  JavaScript para lógica de geração de senhas
+
+Exemplo de Senha Gerada
+
+  aB9@xL2!qWz$
